@@ -138,7 +138,7 @@ end)
 local Window = Library:CreateWindow({
     Title = "PTX v1.2",
     Footer = "project PTX + vhr Visuals",
-    Icon = 5436396975,
+    Icon = 70862198281130,
     NotifySide = "Right",
     ShowCustomCursor = false,
     EnableCompacting = true,
